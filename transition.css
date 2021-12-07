@@ -20,7 +20,7 @@ div{
     width: 300px;
     }
 .kotak2{
-    background: #fff;
+    background: rgb(163, 20, 20);
     width: 100px;
     height: 100px;
     transition: width 1s, height 2s;
